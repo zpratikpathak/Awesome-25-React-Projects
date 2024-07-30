@@ -1,5 +1,5 @@
-# Awesome 25+ projects using NodeJs React
-I have curated a list of 25+ NodeJs React projects for beginners with source code. Feel free to play with these projects and improve your skills.
+# Awesome 25+ projects using React
+I have curated a list of 25+ React projects for beginners with source code. Feel free to play with these projects and improve your skills.
 
 Don't forget to give a 🌟 to the repo
 
